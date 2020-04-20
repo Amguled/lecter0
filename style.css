@@ -3,3 +3,11 @@ h1 {
     color: springgreen;
     font-family: "Raleway", sans-serif
 }
+
+div {
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    list-style: none;
+}
